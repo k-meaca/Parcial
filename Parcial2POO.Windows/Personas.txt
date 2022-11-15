@@ -1,0 +1,12 @@
+﻿Harry|Kane|10|true|1
+Manu|Lanzini|27|false|1
+Hugo|Lloris|1|true|1
+Jurgen|Klopp|2
+Raheem|Sterling|37|false|1
+Alejandro|Garnacho|49|false|1
+Antonio|Conte|2
+Andrew|Roberston|4|true|1
+Emiliano|Martinez|12|false|1
+Emiliano|Buendia|15|false|1
+Manuel|Pellegrini|2
+Raheem|Sterling|37|false|1
